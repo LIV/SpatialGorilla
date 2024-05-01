@@ -1,8 +1,11 @@
+![mini_landscape_1080x360](https://github.com/LIV/SpatialGorilla/assets/41074166/ade24341-9ad7-4060-ba35-cf1aabeae248)
+
 # Spatial Gorilla for Gorilla Tag
 
 Spatial Gorilla allows you to record volumetric videos on PC!  Together, with the Project Spatial app on Steam you’ll be able to record your gameplay from any angle and really bring immersive video for your viewers on the Project Spatial app.
 
 [The latest help guide can be found on the LIV help](https://help.liv.tv/hc/en-us/categories/18283910160786-Project-Spatial)
+![SpatialGorilla](https://github.com/LIV/SpatialGorilla/assets/41074166/c426dec1-e7f7-4305-8c20-42f3c67d5d31)
 
 ## Easy Installation (Recommended)
 

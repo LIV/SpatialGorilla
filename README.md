@@ -8,14 +8,7 @@ Spatial Gorilla allows you to record volumetric videos on PC!  Together, with th
 
 ![SpatialGorilla](https://github.com/LIV/SpatialGorilla/assets/41074166/c426dec1-e7f7-4305-8c20-42f3c67d5d31)
 
-## Easy Installation (Recommended)
-
-- Download the [Monke Mod Manager](https://github.com/DeadlyKitten/MonkeModManager/releases/latest) or [Buzz’s Monke Mod Manager](https://github.com/BzzzThe18th/MonkeModManager) 
-- Select "Spatial Gorilla" from the mod list;
-- Press "Install / Update". It should install the Spatial Gorilla mod and all its dependencies.
-- Use Project Spatial [LIV Playtest](https://store.steampowered.com/app/755540/LIV/) on Steam to record spatial videos
-
-## Manual Installation (Harder)
+## Manual Installation
 
 - Download the [Monke Mod Manager](https://github.com/DeadlyKitten/MonkeModManager/releases/latest).
 - Install BepInEx and Utilla using the Monke Mod Manager.
